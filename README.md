@@ -17,6 +17,14 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Welcome to my page</h2></summary>
+    <summary><h2 style="display: inline-block">I'm a Junior CS Major at TAMU, welcome to my page!</h2></summary>
   </ul>
 </div>
+
+<!--Intro start-->
+- 🚧 Personal website under construction
+
+- 🌱 I’m currently learning about **Web Development and ML**
+
+- 📫 Feel free to reach out **prknezek@gmail.com**
+<!--Intro end-->
