@@ -22,11 +22,15 @@
 </div>
 
 <!--Intro start-->
-- 🚧 Personal website under construction
+- 🚧 AI Chess Bot
 
 - 🌱 I’m currently learning about **Web Development and ML**
 
 - 📫 Feel free to reach out **prknezek@gmail.com**
+
+- 🎉 Recently Completed Projects:
+
+-   <a href="http://people.tamu.edu/~prknezek">Portfolio Website</a>
 <!--Intro end-->
 
 <!--h1 without bottom border-->
