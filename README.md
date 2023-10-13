@@ -30,7 +30,8 @@
 
 - 🎉 Recently Completed Projects:
 
--   <a href="http://people.tamu.edu/~prknezek">Portfolio Website</a>
+-   <a href="http://people.tamu.edu/~prknezek" target="_blank">Portfolio Website</a>
+-   <a href="https://github.com/prknezek/chess-bot" target="_blank">Python Chess Bot</a>
 <!--Intro end-->
 
 <!--h1 without bottom border-->
