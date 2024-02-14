@@ -22,16 +22,17 @@
 </div>
 
 <!--Intro start-->
-- 🚧 AI Chess Bot
+- 🚧 I'm working on redesigning my website
 
-- 🌱 I’m currently learning about **Web Development and ML**
+- 🌱 I’m currently learning about **AI**
 
 - 📫 Feel free to reach out **prknezek@gmail.com**
 
 - 🎉 Recently Completed Projects:
 
--   <a href="http://people.tamu.edu/~prknezek" target="_blank">Portfolio Website</a>
--   <a href="https://github.com/prknezek/chess-bot" target="_blank">Python Chess Bot</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://people.tamu.edu/~prknezek" target="_blank">Portfolio Website</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/prknezek/chess-bot" target="_blank">Python Chess Bot</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/prknezek/MCB_0x88" target="_blank">C++ 0x88 Chess Bot</a>
 <!--Intro end-->
 
 <!--h1 without bottom border-->
