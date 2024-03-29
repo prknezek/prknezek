@@ -23,7 +23,7 @@
 </div>
 
 <!--Intro start-->
-- 🚧 I'm working on redesigning my website
+- 🚧 I'm working on making a faster and better chess bet using bitboards
 
 - 🌱 I’m currently learning about **AI**
 
