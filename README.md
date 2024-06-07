@@ -18,7 +18,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">I'm a Junior CS Major at TAMU, welcome to my page!</h2></summary>
+    <summary><h2 style="display: inline-block">I'm a Senior CS Major at TAMU, welcome to my page!</h2></summary>
   </ul>
 </div>
 
