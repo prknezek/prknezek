@@ -10,7 +10,7 @@
 
 <h1></h1>
 <h1 style="display: inline-block">Hey There 👋</h1>
-<p style="display: inline-block"><b>I'm Payton</b> - I'm a software developer, a lifelong learner, and a Senior CS student. I'm interested in AI, web development, and heuristical programming. I work on whatever project interests me at the time, most not to completion.</p>
+<p style="display: inline-block"><b>I'm Payton</b> - I'm a software developer, a lifelong learner, and a Senior CS student. I'm interested in AI, web development, and data science. I work on whatever project interests me at the time, right now I'm building a website to help people learn data structures and algorithms.</p>
 
 <!--tech stack icons-->
 <a href="https://skillicons.dev">
