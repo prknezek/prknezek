@@ -9,7 +9,7 @@
 
 <!--tech stack icons-->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,bootstrap,bots,cpp,css,discord,django,github,html,java,latex,linux,lua,md,py,postgres,vscode&perline=20" />
+  <img src="https://skillicons.dev/icons?i=git,bootstrap,bots,cpp,css,dart,discord,django,flutter,github,html,java,latex,linux,lua,py,postgres,vscode&perline=20" />
 </a>
 
 <!--horizontal divider(gradiant)-->
