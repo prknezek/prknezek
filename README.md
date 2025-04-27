@@ -5,7 +5,7 @@
 
 <h1></h1>
 <h1 style="display: inline-block">Hey There 👋</h1>
-<p style="display: inline-block"><b>I'm Payton</b> - I'm a software developer, a lifelong learner, and a Senior CS student. I'm interested in AI, web development, and data science. I work on whatever project interests me at the time, right now I'm building a website to help people learn data structures and algorithms.</p>
+<p style="display: inline-block"><b>I'm Payton</b> - I'm a lifelong learner! I love solving complex problems, especially in efficient ways, and understanding how they work. My interests include ML, web development, and data science. I'm currently trying to blend these into a smart home/scheduler app for people to use in their home!</p>
 
 <!--tech stack icons-->
 <a href="https://skillicons.dev">
